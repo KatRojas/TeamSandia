@@ -1,0 +1,5 @@
+Muerte térmica del universo
+
+La muerte térmica (también muerte entrópica) es uno de los posibles estados finales del universo, en el que no hay energía libre para crear y mantener la vida y otros procesos. En términos físicos, el universo habrá alcanzado la máxima entropía.
+
+La hipótesis de la muerte térmica se fundamenta en la segunda ley de la termodinámica, que dice que en un sistema aislado, la entropía tiende a aumentar. Si el universo perdura durante el tiempo suficiente, llegará asintóticamente a un estado en el que la energía se distribuiría uniformemente y al no haber gradientes de calor ya no sería posible la última de las posibles formas de transformarla.
